@@ -19,7 +19,7 @@
 ### 🧩 Featured Projects
 
 #### 🟢 **LowCore**
-> Lightweight modular Minecraft plugin  
+> Lightweight Minecraft plugin  
 > Commands like `/gm`, `/fly`, `/ec`, `/invsee`, `/hat`, `/lowcore`  
 > <a href="https://github.com/jalikdev/LowCore">🔗 View Repository</a>
 
