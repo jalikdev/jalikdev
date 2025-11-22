@@ -52,10 +52,9 @@
 - 🌍 Website: [**jalik.dev**](https://jalik.dev)
 - 💬 Discord: **kulikimus**
 - 📧 Email: *jan@jalik.dev*
-- 🧠 Favorite Quote: *"Build cool things, learn by breaking them."*
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ using GitHub Markdown • © 2025 jalikdev</sub>
+  <sub>Made with ❤️ • © 2025 jalikdev</sub>
 </p>
